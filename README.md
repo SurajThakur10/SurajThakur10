@@ -16,9 +16,7 @@ Building at the intersection of <b>Finance, Technology, Data Analytics, and Arti
 
 ## 🚀 About Me
 
-
-
-<img align="right" alt="Coding" width="400" height = "280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5oemljNzU5a3NyMzNsbnE4MWwxOXI0ZmV1dWhnMGVzOGdqbmgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5oemljNzU5a3NyMzNsbnE4MWwxOXI0ZmV1dWhnMGVzOGdqbmgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
 
 
 * 🎓 Pursuing **MBA in FinTech Analytics** at DY Patil University.
@@ -27,7 +25,6 @@ Building at the intersection of <b>Finance, Technology, Data Analytics, and Arti
 * 🤖 Interested in **Machine Learning, Alternative Data, Credit Scoring, and Predictive Analytics**.
 * 🌱 Currently building products and solutions combining **Finance + AI + Modern Technology**.
 * 🎯 Career Goal: To become a leader in the FinTech ecosystem while building globally impactful technology ventures.
-
 
 ---
 
@@ -69,41 +66,6 @@ Building at the intersection of <b>Finance, Technology, Data Analytics, and Arti
 
 ---
 
-
-
----
-
-## 📚 Research & Academic Work
-
-### AI-Driven Credit Risk Modeling Using Alternative Data for SME Lending in India
-
-Research focused on:
-
-* Alternative Data Analytics
-* SME Credit Assessment
-* Machine Learning Models
-* Credit Risk Prediction
-* Financial Inclusion
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajThakur10&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajThakur10&theme=tokyonight"/>
-</div>
-
----
 
 
 ---
