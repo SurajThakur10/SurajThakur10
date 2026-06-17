@@ -91,7 +91,6 @@ Research focused on:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurajThakur10&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajThakur10&layout=compact&theme=tokyonight"/>
 
@@ -102,7 +101,6 @@ Research focused on:
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajThakur10&theme=tokyonight"/>
-
 </div>
 
 ---
