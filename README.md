@@ -69,80 +69,7 @@ Building at the intersection of <b>Finance, Technology, Data Analytics, and Arti
 
 ---
 
-## 📈 Areas of Interest
 
-```text
-FinTech
-Credit Risk Analytics
-Alternative Lending
-Financial Modeling
-Machine Learning
-Artificial Intelligence
-Data Analytics
-Digital Banking
-Payments
-WealthTech
-InsurTech
-Business Intelligence
-Entrepreneurship
-```
-
----
-
-## 💼 Professional Experience
-
-### Rashtriya Chemicals & Fertilizers Ltd. (RCF)
-
-**Marketing Finance Intern**
-
-* Analyzed working capital management processes.
-* Worked on vendor payments and receivables.
-* Managed sales, stock, and material reporting.
-* Automated challan generation using VBA.
-* Assisted with subsidy processes, tendering, and pricing analysis.
-* Gained hands-on experience with SAP S/4 HANA modules.
-
----
-
-## 🔬 Featured Projects
-
-### 🚀 Falcon9 Landing Prediction
-
-* Developed machine learning models to predict Falcon9 landing success.
-* Applied Logistic Regression, SVM, KNN, and Decision Tree algorithms.
-* Performed data cleaning, visualization, and predictive analytics.
-
----
-
-### 👨‍💻 Smart Attendance System using Face Recognition
-
-* Built an AI-powered attendance management system.
-* Integrated facial authentication for automated attendance tracking.
-* Improved operational efficiency and accuracy.
-
----
-
-### 📊 Prediction of Stock Price using Time Series Analysis
-
-* Conducted forecasting using statistical and machine learning techniques.
-* Analyzed historical trends and market behavior.
-* Generated predictive insights for decision-making.
-
----
-
-### 🎬 Movie Rating Analysis
-
-* Performed exploratory data analysis on movie datasets.
-* Identified patterns influencing audience ratings.
-* Created interactive visualizations and analytical reports.
-
----
-
-### 💬 Chat Application
-
-* Developed a real-time messaging application.
-* Implemented user authentication and communication features.
-* Focused on responsive user experience.
 
 ---
 
@@ -180,15 +107,6 @@ Research focused on:
 
 ---
 
-## 🏆 Certifications & Learning
-
-* Harvard Business School Online
-
-  * Sustainable Business Strategy
-  * AI Essentials for Business
-  * Leading with Finance
-  * Strategic Financial Analysis
-  * Alternative Investments
 
 ---
 
