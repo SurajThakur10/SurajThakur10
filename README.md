@@ -16,7 +16,7 @@ Building at the intersection of <b>Finance, Technology, Data Analytics, and Arti
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5oemljNzU5a3NyMzNsbnE4MWwxOXI0ZmV1dWhnMGVzOGdqbmgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5oemljNzU5a3NyMzNsbnE4MWwxOXI0ZmV1dWhnMGVzOGdqbmgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
 
 
 * 🎓 Pursuing **MBA in FinTech Analytics** at DY Patil University.
