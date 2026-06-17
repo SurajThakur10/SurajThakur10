@@ -66,7 +66,23 @@ Building at the intersection of <b>Finance, Technology, Data Analytics, and Arti
 
 ---
 
+## 📊 GitHub Statistics
 
+<div align="center">
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajThakur10&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+
+</div>
 
 ---
 
